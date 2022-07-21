@@ -3,6 +3,19 @@ body {
 	font-family: 'Nunito', sans-serif;
 }
 
+.blurb h2 {
+	color: #354259;
+	font-weight: 100;
+	font-size: 2.5rem;
+}
+
+.blurb p {
+	color: #3f4e4f;
+	font-weight: 100;
+	font-size: 1.125rem;
+	line-height: 2;
+}
+
 #navbar {
 	font-size: 1.5rem;
 	font-weight: 100;
@@ -26,6 +39,10 @@ body {
 #heading-title h1 {
 	font-weight: 100;
 	font-size: 4rem;
+}
+
+.content {
+	margin-top: 100px;
 }
 
 @media (max-width: 1200px) {
